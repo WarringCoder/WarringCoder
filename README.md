@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ishak eren</h1>
 <h3 align="center">A Full Stack Developer in love with codes and design.</h3> 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=warringcoder&label=Profile%20views&color=0e75b6&style=flat" alt="warringcoder" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=warringcoder&label=Profile%20views&color=0e75b6&style=flat" alt="warringcoder" /> </p>
 
 - 🔭 I’m currently working on [HORSES](file:///Users/macbook/Desktop/Frontend%20Web/Flexbox_work/flexbox.html#)
 
