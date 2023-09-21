@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ishakerenn1905@gmail.com**
 
-- ⚡ Fun fact **I think I am fun, strong , handsome , entertaining and artistic.**
+- ⚡  **I think I am fun, strong , handsome , entertaining and artistic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
