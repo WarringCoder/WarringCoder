@@ -26,7 +26,7 @@
 [![ishak's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarringCoder&show_icons=true&theme=dracula)](https://github.com/WarringCoder/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeghnaS21&size_weight=0.5&count_weight=0.5)](https://github.com/MeghnaS21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarringCoder&size_weight=0.5&count_weight=0.5)](https://github.com/WarringCoder/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarringCoder&layout=pie)](https://github.com/WarringCoder/github-readme-stats)
 
