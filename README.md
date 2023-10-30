@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A site about horses**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📝 I regularly write articles on [https://medium.com/@ishakerenn1905](https://medium.com/@ishakerenn1905)
 
