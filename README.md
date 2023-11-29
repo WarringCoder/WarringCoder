@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **A site about horses**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 📝 I regularly write articles on [https://medium.com/@ishakerenn1905](https://medium.com/@ishakerenn1905)
-
-- 📫 How to reach me **ishakerenn1905@gmail.com**
+- 🌱 I’m currently learning **React**
 
 - ⚡  **I think I am warrior, strong , fun , handsome , entertaining and artistic.**
 
