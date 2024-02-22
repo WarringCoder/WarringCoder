@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ishak eren</h1>
-<h3 align="center">A Full Stack Developer in love with codes and design.</h3> 
+<h3 align="center">A Front End Developer in love with codes and design.</h3> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=warringcoder&label=Profile%20views&color=0e75b6&style=flat" alt="warringcoder" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio Web Site**
+- 🔭 I’m currently working on **Youtube Clone**
 
 - 🌱 I’m currently learning **React Native**
 
